@@ -1,0 +1,176 @@
+
+[0F] SkyUI_SE.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[11] RaceMenu.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[12] RaceMenuPlugin.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[13] Blacksmith Forge Water Fix SE USSEP.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[17] FloraRespawnFix.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[19] AutoHideAmmo.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[1C] Particle Patch for ENB SSE.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[1E] BlendedRoads.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[22] dD-Larger Splatter Size.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[23] DeadlySpellImpacts.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[24] DustEffectsSSE.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[27] True Storms - Obsidian Weathers - Patch .esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[29] Reverb and Ambiance Overhaul - Skyrim.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[3B] Apophysis_DPM_SE.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[3D] RUSTIC SOULGEMS - Unsorted.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[3F] Shadowmere  Rework.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[40] ShadowmereSaddle.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[48] RaceMenuMorphsCBBE.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[49] HavoksLipPatterns.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[4A] High Poly Head Vampire Fix.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[4E] CommunityOverlays1_0T30.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[4F] CommunityOverlays2_31T50.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[50] WNB_WeatheredNordicBodypaints.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[51] CommunityOverlays3.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[52] art_StarsightEyes.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[59] BGCollectables.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[80] EFFDialogue.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[83] AllThievesGuildJobsConcurrently.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[84] Less Tedious Thieves Guild.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[86] Companions Radiant Quests Requirement.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[8D] Fulcimentum - Arcanum Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[93] SPERG_ApocalypsePatch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[94] SPERG_USSEPPatch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[9C] Vokriinator Black.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[9D] 50 More Perk Points.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[A1] Ordinator Enchantment Tweaks.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[A4] Tomebound - Immersive Sounds Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[A6] Apocalypse - Vokrii Compatibility Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[A7] Tomebound - Ordinator Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[AA] Tomebound - Sacrosanct Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[AB] Sacrosanct - Friendly Hemomancy.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[B1] sandboxcylinderheight.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[B2] NoBSAIProjectileDodge.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[B4] Mystic Condenser - USSEP Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[B5] MC - ICoW Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[B7] Random Encounter Tweaks.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[D0] SPTUnlimitedAmuletsSE.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[D1] SPTUnlimitedRingsSE.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[D5] Arctic Moon.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[D6] No World Map Fog.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[DA] ELFX Fake Light Remover.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[DB] Opulent Thieves Guild - ELFX Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[DD] Whiterun Tower - Mesh Fix.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[F2] Alternate Start - ELFX Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[F3] RAO - Alternate Start Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[F4] RAO - ELFX Patch.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[F7] WACCF_BashedPatchLvlListFix.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+[F9] Modern Brawl Bug Fix.esp
+	Can be turned into ESL by adding ESL flag in TES4 header
+
+220 total esl
